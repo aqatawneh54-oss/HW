@@ -1,2 +1,1 @@
-name = input ("Enter your name ")
-print ("Welcome  " + name + "....   to your own world" )
+hello this just to say that i think i did the first homework
